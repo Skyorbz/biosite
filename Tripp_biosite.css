@@ -12,15 +12,13 @@ a:hover{
 }
 
 address{
-    font-family: ;
+    font-family:Oswald, Verdana, Arial, sans-serif ;
     font-size: .8em;
     line-height: .5em;
 }
 
-/* page background color*/
-body, div{
-    background-color: rgba (247, 112, 34);
-    opacity: .5;
+body {
+    background-color: lavenderblush;
 }
 
 figcaption{
@@ -32,7 +30,9 @@ figcaption{
 
 h1, h2{
     font-family: Oswald, Verdana, Arial, sans-serif;
-    color: rgba (185, 63, 8);
+    font-size: 1em;
+    color: palevioletred;
+
  }
 
 h1.important{
@@ -58,6 +58,14 @@ html{
     font-size: 16px;
 }
 
+img{
+    font-family: Oswald, Verdana, Arial, sans-serif; 
+    border-width: 1px 1px 1px 1px thick;
+    border-color: palevioletred;
+    border-style: solid;
+    width: 10000;
+    }
+
 ol{
     width: 350px;
     background-color: #d04c06;
@@ -80,7 +88,4 @@ p{
 }
 
  
-span{
-    font-weight: 3.815;
-   }
 
