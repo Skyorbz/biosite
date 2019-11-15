@@ -1,16 +1,3 @@
-a:link{
-    text-decoration: ;
-    font-family:;
-}
-
-a:visited{
-  text-decoration:;   
-}
-
-a:hover{
-    text-decoration:;
-}
-
 address{
     font-family:Oswald, Verdana, Arial, sans-serif ;
     font-size: .8em;
@@ -22,36 +9,52 @@ body {
 }
 
 figcaption{
-    font-family: Oswald, Verdana, Arial, sans-serif;
+    font-family: "Liu Jian Mao Cao", "Petit Formal Script", "Bad Script", serif;
     font-weight: 400;
     font-size: .8em;
     
  }
 
 h1, h2{
-    font-family: Oswald, Verdana, Arial, sans-serif;
+    font-family: "Liu Jian Mao Cao", "Petit Formal Script", "Bad Script", serif;
     font-size: 1em;
     color: palevioletred;
 
  }
 
-h1.important{
-    font-weight: 700;
-    font-size: 4.768em;
-    line-height: 5em;
-    margin: 0;
+h1{
+    display: block;
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    line-height: 1em;
 }
 
 h2{
-    font-weight: 500;
-    line-height: .3em;
-    font-size: 3.8em;
-    margin: 0;
+    display: block;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    line-height: 1em;
 }
-
+`
 h3{
-    font-weight: 500;
-    font-family: Oswald, Verdana, Arial sans-serif;
+    font-weight: 400;
+    font-family: "Liu Jian Mao Cao", "Petit Formal Script", "Bad Script", serif;
+    display: block;
+    font-weight: bold;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+    line-height: 1em;
     }
 
 html{
@@ -59,7 +62,7 @@ html{
 }
 
 img{
-    font-family: Oswald, Verdana, Arial, sans-serif; 
+    font-family: "Liu Jian Mao Cao", "Petit Formal Script", "Bad Script", serif; 
     border-width: 1px 1px 1px 1px thick;
     border-color: palevioletred;
     border-style: solid;
@@ -77,14 +80,10 @@ ol{
     list-style-position: inside;
 }
 
-p.intro{
-    font-weight: bold;
-}
-
 p{
-    font-family: Quattrocento, Georgia, "Times New Roman", serif;
+    font-family: "Liu Jian Mao Cao", "Petit Formal Script", "Bad Script", serif;
     font-weight: 400;
-    line-height: 1.4em;
+    line-height: 2em;
 }
 
  
